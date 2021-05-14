@@ -30,5 +30,5 @@ app.listen(app.get('port'), () => {
     console.log('Server on port', app.get('port'));
 })
 
-console.log('Server works and listening 3000 SEGUIMOS CON EJS 07:29!');
+console.log('Server works and listening puerto 3000 SEGUIMOS CON EJS 07:29!');
 //console.log(__dirname + '/views/index.ejs'); //NOS DICE LA RUTA COMPLETA DEL ARCHIVO
