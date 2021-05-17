@@ -2,7 +2,7 @@ const express = require('express')
 const app = express();
 //modulo path es para conciliar la \ de win con la / de unix
 const path = require('path');
-const ejs = require('ejs')
+const ejs = require('ejs');
 
 
 //.....settings.....
